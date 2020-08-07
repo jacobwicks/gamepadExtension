@@ -45,6 +45,7 @@
     "vue-template-compiler": "^2.6.11"
   },
   "dependencies": {
+    "@types/jsdom": "^16.2.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.0",
